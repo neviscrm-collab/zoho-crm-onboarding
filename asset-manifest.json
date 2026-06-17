@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zoho-crm-onboarding/static/css/main.36540095.css",
+    "main.js": "/zoho-crm-onboarding/static/js/main.b6b7bc0c.js",
+    "static/js/453.91e594b3.chunk.js": "/zoho-crm-onboarding/static/js/453.91e594b3.chunk.js",
+    "index.html": "/zoho-crm-onboarding/index.html",
+    "main.36540095.css.map": "/zoho-crm-onboarding/static/css/main.36540095.css.map",
+    "main.b6b7bc0c.js.map": "/zoho-crm-onboarding/static/js/main.b6b7bc0c.js.map",
+    "453.91e594b3.chunk.js.map": "/zoho-crm-onboarding/static/js/453.91e594b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36540095.css",
+    "static/js/main.b6b7bc0c.js"
+  ]
+}
